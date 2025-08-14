@@ -80,4 +80,10 @@
 
 ## ✦ END OF CORE
 
+git add README.md
+git commit -m "TENEBRIS CORE — v1.0- as README"
+git push
+
+
 > Preserve. Observe. Reignite.
+
